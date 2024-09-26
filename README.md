@@ -6,12 +6,13 @@ I am currently pursuing a Bachelor's degree in Computer Science. My academic jou
 Skills
 Programming Languages: Java, Python
 Database: MySQL
-Machine Learning: OpenCV, YOLO
 Tools & Technologies: UI/UX Design
 Techniques: Object-oriented programming 
 
 Get in touch:
 LinkedIn: www.linkedin.com/in/alea-rao-35780421b
+
 Email: alea.rao@tufts.edu
+
 Let's connect and explore opportunities together!
 
